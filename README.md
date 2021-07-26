@@ -8,6 +8,6 @@
 
 ### Project made by:
 ##### Sloan Dcunha Roll No: 8659
-##### Clint Ferreira Roll No: 8670
-##### Orvell Ferreira Roll No: 8671
+##### Clint Ferreira Roll No: 8670 (https://github.com/Sloan726)
+##### Orvell Ferreira Roll No: 8671 (https://github.com/orvell)
 ##### Lance Main Roll No: 8681
